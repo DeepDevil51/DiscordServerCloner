@@ -9,6 +9,8 @@ Your Discord User token (not a bot token as this is a self-bot)
 ## Installation & Setup
 Clone this repository:
 
+Open and install the NodeJS setup
+
 ```bash
 git clone https://github.com/yourusername/discord-server-cloner.git
 cd discord-server-cloner
